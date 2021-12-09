@@ -18,4 +18,4 @@ Resolución del apartado 1 [netsize.sh](https://github.com/AndresCV14/Bioinfo_Ag
 
 Imagen
 
-Resolución del apartado 2 [netsize_all.sh]()
+Resolución del apartado 2 [netsize_all.sh](https://github.com/AndresCV14/Bioinfo_Ag1/blob/main/Tarea%201/netsize_all.sh)
