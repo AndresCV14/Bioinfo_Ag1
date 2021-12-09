@@ -1,6 +1,6 @@
-# Resolución del primer apartado
+#Resolución del primer apartado
 
-## /Desktop/CSB/unix/data/Saacedra2013
+#!/bin/bash
 
 echo "../data/Saavedra2013/n1.txt"
 echo n1.txt
