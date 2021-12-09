@@ -16,6 +16,6 @@ Resolución del apartado 1 [netsize.sh](https://github.com/AndresCV14/Bioinfo_Ag
 
 2. (Avanzado) Escriba un guíon que imprima el número de filas y columnas para cada red:
 
-Imagen
+[![Enunciado-2.png](https://i.postimg.cc/0NMqtnBK/Enunciado-2.png)](https://postimg.cc/QB3PCQsj)
 
 Resolución del apartado 2 [netsize_all.sh](https://github.com/AndresCV14/Bioinfo_Ag1/blob/main/Tarea%201/netsize_all.sh)
