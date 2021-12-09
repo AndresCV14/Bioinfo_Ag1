@@ -8,8 +8,14 @@ CSB/unix/data/Saavedra2013.
 
 ## Práctica
  1. Escriba un guión que tome uno de estos archivos y determine el número
-filas (polinizadores) y columnas (plantas). Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea. Tu scriot debería regresar:
+filas (polinizadores) y columnas (plantas). Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea. Tu script debería regresar:
+
 Imagen 
 
+Resolución del apartado 1 [netsize.sh]()
+
 2. (Avanzado) Escriba un guíon que imprima el número de filas y columnas para cada red:
+
 Imagen
+
+Resolución del apartado 2 [netsize_all.sh]()
