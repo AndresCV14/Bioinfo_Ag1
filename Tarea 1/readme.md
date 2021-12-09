@@ -12,7 +12,7 @@ filas (polinizadores) y columnas (plantas). Tenga en cuenta que las columnas est
 
 Imagen 
 
-Resolución del apartado 1 [netsize.sh]()
+Resolución del apartado 1 [netsize.sh](https://github.com/AndresCV14/Bioinfo_Ag1/blob/main/Tarea%201/netsize.sh)
 
 2. (Avanzado) Escriba un guíon que imprima el número de filas y columnas para cada red:
 
