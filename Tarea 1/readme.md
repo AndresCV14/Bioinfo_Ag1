@@ -10,7 +10,7 @@ CSB/unix/data/Saavedra2013.
  1. Escriba un guión que tome uno de estos archivos y determine el número
 filas (polinizadores) y columnas (plantas). Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea. Tu script debería regresar:
 
-Imagen 
+/Desktop/Sexto Semestre Ikiam/Enuciado 1.png 
 
 Resolución del apartado 1 [netsize.sh](https://github.com/AndresCV14/Bioinfo_Ag1/blob/main/Tarea%201/netsize.sh)
 
