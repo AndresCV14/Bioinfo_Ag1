@@ -25,7 +25,6 @@ Repositorio de trabajos de Andrés. C en la asignatura de Bioinformática
 
 
 1. Andrés Calderón
-2. Natasha Deleg
 
 ## Información Adicional
 
