@@ -1,5 +1,6 @@
 # Bioinfo_Ag1
-Repositorio de trabajos de Andrés. C en la asignatura de Bioinformática
+
+# Repositorio de trabajos de Andrés Calderón del Grupo 1 de la asignatura de Bioinformática 
 
 ## Presentaciones
 
@@ -14,15 +15,14 @@ Repositorio de trabajos de Andrés. C en la asignatura de Bioinformática
 
 
 - Introducción
--   Moleculas biologicas 
--   Bases de datos
+   -Moleculas biologicas 
+   -Bases de datos
 - Unix
 - Git
 - Python
 - R
 
 #Participantes
-
 
 1. Andrés Calderón
 
