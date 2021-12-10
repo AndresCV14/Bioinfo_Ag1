@@ -20,3 +20,7 @@ Resolución del apartado 1 [netsize.sh](https://github.com/AndresCV14/Bioinfo_Ag
 [![Enunciado-2.png](https://i.postimg.cc/0NMqtnBK/Enunciado-2.png)](https://postimg.cc/QB3PCQsj)
 
 Resolución del apartado 2 [netsize_all.sh](https://github.com/AndresCV14/Bioinfo_Ag1/blob/main/Tarea%201/netsize_all.sh)
+
+3. ¿Cuál es el archuvo que tiene mayor número de filas y cual es el que tiene mayor número de columnas?
+
+El archivo que tiene más filas es el n58 con 678 de estas, mientras que el archivo n56 tiene 207 columnas siendo este el que tiene más.
